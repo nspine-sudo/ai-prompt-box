@@ -1,1 +1,35 @@
+<!DOCTYPE html>
 
+<html lang="ko">
+
+<head>
+
+  <meta charset="UTF-8" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>AI 프롬프트 보관함</title>
+
+  <style>
+
+    * {
+
+      box-sizing: border-box;
+
+    }
+
+    :root {
+
+      --bg: #f5f6f8;
+
+      --card: #ffffff;
+
+      --text: #17181a;
+
+      --subtext: #6b7280;
+
+      --border: #e5e7eb;
+
+      --primary: #2563eb;
+
+      --primary-hover: #1d4ed8;
